@@ -10,7 +10,7 @@ function App() {
 
 	return (
 		<Stack minH={"100vh"}>
-			<Navbar  setUsers={setUsers}/>
+			<Navbar  setUsers={setUsers }/>
 
 			<Container maxW={"1200px"} my={4}>
       <Text
