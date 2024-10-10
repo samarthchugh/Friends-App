@@ -1,9 +1,10 @@
 <div align="center">
-  <div>
-    <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&color=3776AB" alt="Python" />
-    <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react&color=61DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/-SQLite-black?style=for-the-badge&logo=sqlite&color=003B57" alt="SQLite" />
+ <div>
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=black" alt="Python" />
+    <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white&color=black" alt="React" />
+    <img src="https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&color=black" alt="SQLite" />
   </div>
+  
 
   <h3 align="center">Friends App</h3>
 
@@ -15,8 +16,7 @@
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
-5. 🖼️ [Screenshots](#screenshots)
-6. 🔗 [Links](#links)
+5. 🖼️ [Screenshots](#Screenshots)
 
 ## <a name="introduction">🤖 Introduction</a>
 
