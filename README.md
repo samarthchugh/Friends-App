@@ -111,7 +111,7 @@ The Flask app will automatically use the `friends.db` database located in the `i
 
 Open [http://localhost:5000](http://localhost:5000) in your browser to view the project.
 
-## 🖼️ **Screenshots**
+## 🖼️ **Screenshot**
 
 ![Friend-App](./Screenshots/Friend-APP.png)
 
